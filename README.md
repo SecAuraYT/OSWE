@@ -1,6 +1,6 @@
 # OSWE@[SecAura](https://www.youtube.com/channel/UCx89Lz24SEPZpExl6OfQ0Gg)
 ![banner](https://raw.githubusercontent.com/SecAuraYT/HackTheBox/main/banner.PNG)
-> A repository for related HackTheBox contents referenced in SecAura's YouTube Channel
+> A repository for related OSWE contents referenced in SecAura's YouTube Channel
 >> @[SecAura](https://www.youtube.com/channel/UCx89Lz24SEPZpExl6OfQ0Gg)
 
 # [SecAura Blog | PHP Web App](https://github.com/SecAuraYT/OSWE/tree/main/SecAura%20Blog%20PHP%20Web%20App)
