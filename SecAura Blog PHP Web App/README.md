@@ -5,7 +5,7 @@
 
 > Access /phpmyadmin, create table:
 
-    CREATE TABLE Comments (
+    CREATE TABLE comments (
         id int NOT NULL AUTO_INCREMENT,
         name varchar(255) NOT NULL,
         usercomment varchar(255),
