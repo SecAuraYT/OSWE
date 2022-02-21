@@ -3,7 +3,11 @@
 
 > Download XAMPP
 
-> Access /phpmyadmin, create table:
+> Access /phpmyadmin and create Database `blog`
+
+> Click on SQL tab and create table by executing the following query 
+
+> create table query:
 
     CREATE TABLE comments (
         id int NOT NULL AUTO_INCREMENT,
